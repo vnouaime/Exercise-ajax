@@ -1,0 +1,12 @@
+body {
+    background-color: black; 
+}
+
+form {
+    display: flex;
+    justify-content: center;
+}
+
+#oneGif {
+    display: inline-block;
+}
